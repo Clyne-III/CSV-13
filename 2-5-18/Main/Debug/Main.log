@@ -1,0 +1,6 @@
+﻿  Main.cpp
+c:\users\vscilab\documents\visual studio 2017\sc\2-5-18\main\main.cpp(35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\vscilab\documents\visual studio 2017\sc\2-5-18\main\main.cpp(45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\vscilab\documents\visual studio 2017\sc\2-5-18\main\main.cpp(18): warning C4101: 'ans': unreferenced local variable
+  Main.vcxproj -> C:\Users\vscilab\Documents\Visual Studio 2017\Sc\2-5-18\Debug\Main.exe
+  Main.vcxproj -> C:\Users\vscilab\Documents\Visual Studio 2017\Sc\2-5-18\Debug\Main.pdb (Partial PDB)
