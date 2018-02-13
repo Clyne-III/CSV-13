@@ -1,0 +1,12 @@
+﻿  stdafx.cpp
+  Subtraction.cpp
+  Multiplication.cpp
+  Division.cpp
+  Calculator.cpp
+c:\users\clyne\csv-13\calculator\calculator\calculator.cpp(38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\clyne\csv-13\calculator\calculator\calculator.cpp(48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\clyne\csv-13\calculator\calculator\calculator.cpp(58): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\clyne\csv-13\calculator\calculator\calculator.cpp(20): warning C4101: 'ans': unreferenced local variable
+  Addition.cpp
+  Generating Code...
+  Calculator.vcxproj -> C:\Users\Clyne\CSV-13\Calculator\Debug\Calculator.exe
